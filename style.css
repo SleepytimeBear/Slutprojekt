@@ -1,5 +1,52 @@
 #Top{
     display: flex;
     flex-direction: row;
-    background-color: darkgray;
+    background-color: rgb(234, 234, 234);
+    height: 10%;
 }
+
+.toplink{
+    display: flex;
+    width: 20%;
+    border-style: solid;
+    border: 1%;
+}
+
+.smalltoplink{
+    display: flex;
+    width: 10%;
+    border-style: solid;
+    border: 1%;
+} 
+
+
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#active{
+    color: rgb(69, 19, 123);
+    text-decoration: ;
+}
+.imageCharacter{
+    width: 20vw;
+    
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vh5Margin{
+    margin: 5vw;
+}
+
+body{
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    color: black;}
