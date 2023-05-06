@@ -11,9 +11,14 @@
     justify-content: space-evenly;
 }
 
+#placeholder{
+    display: flex;
+    flex-direction: row;
+}
+
 .toplink{
     display: flex;
-    width: 20%;
+    width: 25%;
 }
 
 .border{
@@ -27,23 +32,18 @@
 
 }
 
-.smalltoplink{
-    display: flex;
-    width: 10%;
-} 
-
 .arrowSize{ 
     height: 10vh;
 }
 #Gloomspite_Gitz{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
 #Deathguard{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
@@ -84,12 +84,10 @@
 }
 .vh5Margin{
     margin: 5vw;
-}
-
-.FactionA{
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 body{
@@ -102,29 +100,24 @@ a{
 p{
     font-size: 2em;
 }
-#myDropdown {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    background-color: #fff;
-    border: 1px solid #000000;
-    padding: 5px;
-    font-size: 16px;
-    width: 200px;
-    cursor: pointer;
-    
-  }
-  
-  #myDropdown option {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #fff;
-    color: #333;
-    font-size: 16px;
-    cursor: pointer;
-  }
-  
+
+@media screen and (max-width: 600px ) {
+    #main{ 
+        flex-direction: column;
+    }
+    .imageCharacter{
+        width: 100vw;
+    }
+    .blogpost{
+        margin: 4vh;
+    }
+    p{
+        font-size: 1.5em;
+    }
+    #Gloomspite_Gitz{
+        flex-direction: column;
+    }
+    #Deathguard{
+        flex-direction: column;
+    }
+}

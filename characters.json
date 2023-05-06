@@ -1,0 +1,43 @@
+
+
+{
+    "characters": [
+      {
+        "id" : 1,
+        "name": "Loonboss Joey",
+        "image": "Images/loonboss.jpg",
+        "description": "Loon boss joey is a pretty swell guy who likes to chill out at home when he doesnt have to go to work and kill invaders or spiders"
+      },
+      {
+        "id" : 2,
+        "name": "Shaman Billy",
+        "image": "Images/fungoid-caveshaman.jpg",
+        "description": "Works as the doctor in the caves, but he rarely manages to cure anything without the help of his mushrooms."
+      },
+      {
+        "id" : 3,
+        "name": "Skragrott, King of all",
+        "image": "Images/skragrott",
+        "description": "King of the goblins, and incredibly cunning."
+      },
+      {
+        "id" : 4,
+        "name": "Dock Ock",
+        "image": "Images/plague-surgeon.jpg",
+        "description": "Often described as unnecesairly cruel, he has a tendency to let his patients leave with more diseases than when they came in."
+      },
+      {
+        "id" : 5,
+        "name": "Sicky Boy",
+        "image": "Images/lord-of-virulence.jpg",
+        "description": "A sergeant within the army, he often enters the battlefield with one hand on his gun and one up his nose."
+      },
+      {
+        "id" : 6,
+        "name": "Little Big Guy",
+        "image": "Images/mortarion.jpg",
+        "description": "Mortarion, leader of the deathguard. Forsaken by his father, he found a loving family in the deepest recesses of the void. "
+      }
+    ]
+  }
+
