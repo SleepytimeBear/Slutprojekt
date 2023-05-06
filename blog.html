@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
     <title>Slutprojekt</title>
 </head>
 <body>
@@ -12,7 +13,13 @@
 
     <div id = "Top">
         <div class="smalltoplink center border">
-            <h1>Year</h1>
+            <select id="myDropdown">
+                <option value="option1">2023</option>
+                <option value="option2">2022</option>
+                <option value="option3">2021</option>
+                <option value="option4">2020</option>
+                <option value="option5">2019</option>
+              </select>
         </div>
         <a href="index.html" class="toplink center border">
             <h1>Home</h1>
@@ -31,19 +38,18 @@
         </div>
     </div>
 
+    <div id = "blogtext"></div>
 
-    <div id = "blogtext">
-        <div class="blogpost">
-            <p>1/1/2023</p>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis non ullam nostrum eum dolores earum minima eius hic, soluta, quisquam error dolor recusandae. Repudiandae ea vel itaque tenetur quae autem! </p>
-        </div>
+    <footer id="emptyspace">
+
+    </footer>
         
 
-    </div>
+    
 
     <div id="scrollfooter">
-        <img class="arrowSize" src="Images/Arrow left.webp" alt="arrow back">
-        <img class="arrowSize" src="Images/Arrow right.webp" alt="arrow forward">
+        <a id="left"><img class="arrowSize" src="Images/Arrowleft.png" alt="arrow back"></a>
+        <a id="right"><img class="arrowSize" src="Images/Arrowright.png" alt="arrow forward"></a>
     </div>
     
 </body>

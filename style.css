@@ -22,13 +22,34 @@
     border-width: thin;
 }
 
+.date{
+    margin-bottom: 5vh;
+
+}
+
 .smalltoplink{
     display: flex;
     width: 10%;
 } 
 
-.arrowSize{
+.arrowSize{ 
     height: 10vh;
+}
+#Gloomspite_Gitz{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Deathguard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.faction-description{
+    margin: 5vh;
 }
 
 #scrollfooter{
@@ -44,7 +65,9 @@
     bottom: 0;
     background-color: rgb(255, 255, 255);
 }
-
+.blogpost{
+    margin: 10vh;
+}
 
 
 #active{
@@ -63,6 +86,12 @@
     margin: 5vw;
 }
 
+.FactionA{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 body{
     margin: 0%;
 }
@@ -73,3 +102,29 @@ a{
 p{
     font-size: 2em;
 }
+#myDropdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: #fff;
+    border: 1px solid #000000;
+    padding: 5px;
+    font-size: 16px;
+    width: 200px;
+    cursor: pointer;
+    
+  }
+  
+  #myDropdown option {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
