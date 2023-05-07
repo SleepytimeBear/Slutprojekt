@@ -1,3 +1,4 @@
+//All js and json was created with the help of Wilhelm and ChatGPT
 
 
 let currentMonthNumber = 0

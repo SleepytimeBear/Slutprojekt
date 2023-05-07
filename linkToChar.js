@@ -1,5 +1,5 @@
 
-//"<div id="placeholder"><img src="" class="imageCharacter" alt=""><div><p></p><p></p></div></div>"
+//All js and json was created with the help of Wilhelm and ChatGPT
 
 function dynamicGeneration(data){
   console.log(data)
@@ -38,6 +38,4 @@ async function fetchData(id) {
     console.log(sessionData)
     fetchData(sessionData)
   
- //  let char1 = document.getElementById("character1")
-// char1.addEventListener('click',fetchData(0));
   
