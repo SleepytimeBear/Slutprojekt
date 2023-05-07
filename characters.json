@@ -2,6 +2,7 @@
 
 {
     "characters": [
+      [
       {
         "id" : 1,
         "name": "Loonboss Joey",
@@ -17,7 +18,7 @@
       {
         "id" : 3,
         "name": "Skragrott, King of all",
-        "image": "Images/skragrott",
+        "image": "Images/skragrott.jpg",
         "description": "King of the goblins, and incredibly cunning."
       },
       {
@@ -38,6 +39,59 @@
         "image": "Images/mortarion.jpg",
         "description": "Mortarion, leader of the deathguard. Forsaken by his father, he found a loving family in the deepest recesses of the void. "
       }
+    ],
+    [
+      {
+        "id" : 1,
+        "name": "Poxwlötrgkltegnkfglhnalkers",
+        "image": "Images/stabbs.jpg",
+        "description": "Loon boss joey is a pretty swell guy who likes to chill out at home when he doesnt have to go to work and kill invaders or spiders"
+      },
+      {
+        "id" : 2,
+        "name": "Shaman Billy",
+        "image": "Images/squig-hoppers.jpg",
+        "description": "Works as the doctor in the caves, but he rarely manages to cure anything without the help of his mushrooms."
+      },
+      {
+        "id" : 3,
+        "name": "Skragrott, King of all",
+        "image": "Images/rockgutt-troggoths.jpg",
+        "description": "King of the goblins, and incredibly cunning."
+      },
+      {
+        "id" : 4,
+        "name": "Dock Oopjoikngnjklnck",
+        "image": "Images/poxwalkers.jpg",
+        "description": "Often described as unnecesairly cruel, he has a tendency to let his patients leave with more diseases than when they came in."
+      },
+      {
+        "id" : 5,
+        "name": "Sicky Boy",
+        "image": "Images/plague-marines.jpg",
+        "description": "A sergeant within the army, he often enters the battlefield with one hand on his gun and one up his nose."
+      },
+      {
+        "id" : 6,
+        "name": "blightlord-terminators.jpg",
+        "image": "Images/mortarion.jpg",
+        "description": "Mortarion, leader of the deathguard. Forsaken by his father, he found a loving family in the deepest recesses of the void. "
+      }
+    ],
+    [
+      {
+        "id" : 1,
+        "name": "Poxwlötrgkltegnkfglhnalkers",
+        "image": "Images/stabbs.jpg",
+        "description": "The Death Guard is a faction of Chaos Space Marines in the Warhammer 40,000 universe. They were once loyal Space Marines of the Emperor of Mankind, but were corrupted by the power of the Chaos god Nurgle, becoming twisted and decayed versions of their former selves. The Death Guard are known for their disgusting appearance, with their bodies covered in rotting flesh, pustules, and other signs of decay. They are also heavily armored and armed with a variety of weapons, such as boltguns, flamers, and plague knives. In battle, the Death Guard are incredibly resilient, able to shrug off even the most devastating attacks with their tough armor and powerful regeneration abilities. They are also skilled in the use of chemical and biological warfare, often using toxic gases and diseases to weaken their enemies before launching a full-scale attack.The Death Guard's devotion to Nurgle is absolute, and they believe that by spreading decay and disease throughout the galaxy, they are doing their god's bidding. They are led by a powerful Chaos Lord known as Typhus, who is himself a carrier of Nurgle's plagues and diseases.Overall, the Death Guard are a fearsome and revolting force on the battlefield, spreading death and decay wherever they go."
+      },
+      {
+        "id" : 2,
+        "name": "Shamanobama Billy",
+        "image": "Images/squig-hoppers.jpg",
+        "description": "Works as the doctor in the caves, but he rarely manages to cure anything without the help of his mushrooms."
+      }
     ]
+  ]
   }
 

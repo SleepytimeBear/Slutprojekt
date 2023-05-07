@@ -35,17 +35,12 @@
 .arrowSize{ 
     height: 10vh;
 }
-#Gloomspite_Gitz{
+.lore{
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-}
-#Deathguard{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    margin: 5vh;
 }
 
 .faction-description{
@@ -106,7 +101,7 @@ p{
         flex-direction: column;
     }
     .imageCharacter{
-        width: 100vw;
+        width: 95vw;
     }
     .blogpost{
         margin: 4vh;
@@ -114,10 +109,8 @@ p{
     p{
         font-size: 1.5em;
     }
-    #Gloomspite_Gitz{
+    .lore{
         flex-direction: column;
     }
-    #Deathguard{
-        flex-direction: column;
-    }
+
 }

@@ -2,6 +2,7 @@
 //"<div id="placeholder"><img src="" class="imageCharacter" alt=""><div><p></p><p></p></div></div>"
 
 function dynamicGeneration(data){
+  console.log(data)
   const src = data.image 
   const name = data.name
   const description = data.description
@@ -24,7 +25,8 @@ async function fetchData(id) {
     
         // Parse the JSON data
         const data = await response.json();
-        dynamicGeneration(data.characters[id])
+        console.log(id[2])
+        dynamicGeneration(data.characters[id[0]][id[2]])
   
         
       } catch (error) {
@@ -32,6 +34,10 @@ async function fetchData(id) {
       }
     
     }
+    let sessionData = sessionStorage.getItem("id");
+    console.log(sessionData)
+    fetchData(sessionData)
+  
  //  let char1 = document.getElementById("character1")
 // char1.addEventListener('click',fetchData(0));
   
