@@ -43,53 +43,53 @@
     [
       {
         "id" : 1,
-        "name": "Poxwlötrgkltegnkfglhnalkers",
+        "name": "Stabbas",
         "image": "Images/stabbs.jpg",
-        "description": "Loon boss joey is a pretty swell guy who likes to chill out at home when he doesnt have to go to work and kill invaders or spiders"
+        "description": "Prime with black. Shoes and stick with leather brown. Head with deathguard green and red with evil suns scarlet. Blade/Nails wiht leadbelcher."
       },
       {
         "id" : 2,
-        "name": "Shaman Billy",
+        "name": "Squig Hopper",
         "image": "Images/squig-hoppers.jpg",
-        "description": "Works as the doctor in the caves, but he rarely manages to cure anything without the help of his mushrooms."
+        "description": "Same as the stabbas, but with more scarlet on the squig and making their nails white."
       },
       {
         "id" : 3,
         "name": "Skragrott, King of all",
         "image": "Images/rockgutt-troggoths.jpg",
-        "description": "King of the goblins, and incredibly cunning."
+        "description": "Prime with The Fang and add on more lighter paints. Paint his belly white and emphasize his scaly nature. Dont forget to get some sharp edges on the rocks."
       },
       {
         "id" : 4,
-        "name": "Dock Oopjoikngnjklnck",
+        "name": "Poxwalkers",
         "image": "Images/poxwalkers.jpg",
-        "description": "Often described as unnecesairly cruel, he has a tendency to let his patients leave with more diseases than when they came in."
+        "description": "Dont spend too much time on each as they will almost always be the first to go. Paint the skin a pale white and then cover with a watered down green shade. The clothes should be diffrent between diffrent models with the same sculpt, so make sure not to get too repetetive."
       },
       {
         "id" : 5,
-        "name": "Sicky Boy",
+        "name": "Plague Marines",
         "image": "Images/plague-marines.jpg",
-        "description": "A sergeant within the army, he often enters the battlefield with one hand on his gun and one up his nose."
+        "description": "Cover in Deathguard green. DO NOT USE LEADBELCHER ON ANYTHING BUT THE BACKPACK. Maggots are a pale white, tentacles a deeper purple."
       },
       {
         "id" : 6,
-        "name": "blightlord-terminators.jpg",
-        "image": "Images/mortarion.jpg",
-        "description": "Mortarion, leader of the deathguard. Forsaken by his father, he found a loving family in the deepest recesses of the void. "
+        "name": "Blightlord Terminators",
+        "image": "Images/blightlord-terminators.jpg",
+        "description": "Same as Plague marines, but try to spend twice as much time on these as on the marines. They will turn out better, and there are fewer to get through."
       }
     ],
     [
       {
         "id" : 1,
-        "name": "Poxwlötrgkltegnkfglhnalkers",
-        "image": "Images/stabbs.jpg",
+        "name": "The Deathguard",
+        "image": "Images/panorama3.jpg",
         "description": "The Death Guard is a faction of Chaos Space Marines in the Warhammer 40,000 universe. They were once loyal Space Marines of the Emperor of Mankind, but were corrupted by the power of the Chaos god Nurgle, becoming twisted and decayed versions of their former selves. The Death Guard are known for their disgusting appearance, with their bodies covered in rotting flesh, pustules, and other signs of decay. They are also heavily armored and armed with a variety of weapons, such as boltguns, flamers, and plague knives. In battle, the Death Guard are incredibly resilient, able to shrug off even the most devastating attacks with their tough armor and powerful regeneration abilities. They are also skilled in the use of chemical and biological warfare, often using toxic gases and diseases to weaken their enemies before launching a full-scale attack.The Death Guard's devotion to Nurgle is absolute, and they believe that by spreading decay and disease throughout the galaxy, they are doing their god's bidding. They are led by a powerful Chaos Lord known as Typhus, who is himself a carrier of Nurgle's plagues and diseases.Overall, the Death Guard are a fearsome and revolting force on the battlefield, spreading death and decay wherever they go."
       },
       {
         "id" : 2,
-        "name": "Shamanobama Billy",
-        "image": "Images/squig-hoppers.jpg",
-        "description": "Works as the doctor in the caves, but he rarely manages to cure anything without the help of his mushrooms."
+        "name": "The Gloomspite Gitz",
+        "image": "Images/panorama2.jpg",
+        "description": "The Gloomspite Gitz are a chaotic faction in the Warhammer: Age of Sigmar universe, known for their bizarre mix of goblins, squigs, and fungal creatures. Their lore is deeply tied to the power of the Bad Moon, a mysterious celestial object that the Gloomspite Gitz believe controls their destiny.According to Gloomspite Gitz lore, the Bad Moon is a living entity that travels across the skies of the Mortal Realms, influencing the actions of all those beneath it. The Gloomspite Gitz revere the Bad Moon as a god-like being, and believe that they are its chosen servants.The Gloomspite Gitz are a deeply superstitious and unpredictable faction. They are known for their use of magic, particularly the powers of the Bad Moon, which they believe can grant them incredible abilities and good fortune in battle. However, their reliance on the whims of the Bad Moon can also lead them to unpredictable behavior, making them difficult to control even for their own leaders.In terms of society and organization, the Gloomspite Gitz are loosely organized into tribes and clans, each with their own unique traditions and beliefs. However, they are all united in their worship of the Bad Moon, and will put aside their differences to fight under its banner.The Gloomspite Gitz are also known for their ability to adapt to different environments and situations. They are experts at guerrilla warfare and ambush tactics, and are able to use their small size and nimbleness to their advantage on the battlefield.Overall, the Gloomspite Gitz are a chaotic and unpredictable force in the Mortal Realms, driven by their devotion to the mysterious power of the Bad Moon."
       }
     ]
   ]

@@ -1,3 +1,5 @@
+/*A basic style system utilizing flexbox to make so that it doesnt look to bad*/
+
 #Top{
     display: flex;
     flex-direction: row;
@@ -14,6 +16,8 @@
 #placeholder{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .toplink{
@@ -64,12 +68,16 @@
     margin: 10vh;
 }
 
+.charMargin{
+    margin: 5vh;
+}
 
 #active{
     color: rgb(69, 19, 123);
 }
 .imageCharacter{
     width: 20vw;
+    
     
 }
 .center{
@@ -95,7 +103,7 @@ a{
 p{
     font-size: 2em;
 }
-
+/*Makes it so that the site doesnt look awful when the screen is smaller than 600px*/
 @media screen and (max-width: 600px ) {
     #main{ 
         flex-direction: column;
@@ -110,6 +118,9 @@ p{
         font-size: 1.5em;
     }
     .lore{
+        flex-direction: column;
+    }
+    #placeholder{
         flex-direction: column;
     }
 

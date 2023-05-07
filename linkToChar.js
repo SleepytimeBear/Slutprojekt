@@ -7,7 +7,7 @@ function dynamicGeneration(data){
   const name = data.name
   const description = data.description
   const charMain = document.getElementById("charMain")
-  charMain.innerHTML = `<div id='placeholder'><img src='${src}' class='imageCharacter' ><div><p>${name}</p><p>${description}</p></div></div>`
+  charMain.innerHTML = `<div id='placeholder'><img src='${src}' class='imageCharacter charMargin' ><div><p>${name}</p><p>${description}</p></div></div>`
 }
 
 
